@@ -70,17 +70,12 @@ The goal is to:
 - **Tatkal services** show high adoption in metro areas.  
 - **Normal schemes** dominate in suburban and rural zones.
 
-### 🔥 Heatmap Observations
-- Red zones indicate high-volume service centers.  
-- Clear differentiation between high-traffic (urban) and moderate-traffic regions.
-
 ---
 
 ## 6. Visual Highlights
 
 - **Bar Charts:** Comparative gender and scheme-wise applications per city.  
-- **Heatmaps:** City × Scheme Type matrix visualizing load and participation levels.  
-- **Line Graphs (optional):** Temporal trends (if monthly data available).
+- **Pie Charts:** Gender wise, Scheme wise, City-level Application destribution.
 
 ---
 
